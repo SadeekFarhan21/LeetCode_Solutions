@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+## Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
