@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
