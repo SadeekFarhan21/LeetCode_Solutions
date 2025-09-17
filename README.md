@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
@@ -103,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
