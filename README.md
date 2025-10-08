@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 ## Combinatorics
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
