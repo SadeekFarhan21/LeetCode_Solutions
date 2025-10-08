@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
