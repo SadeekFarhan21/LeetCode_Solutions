@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
