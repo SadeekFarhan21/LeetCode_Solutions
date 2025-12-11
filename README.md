@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
