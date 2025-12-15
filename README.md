@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
