@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0812-largest-triangle-area](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
