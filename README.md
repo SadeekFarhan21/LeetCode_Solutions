@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1925-count-square-sum-triples](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Randomized
 |  |
 | ------- |
