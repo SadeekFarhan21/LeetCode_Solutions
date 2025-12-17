@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## String
 |  |
 | ------- |
