@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
