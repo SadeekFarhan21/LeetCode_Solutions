@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1791-find-center-of-star-graph) |
+| [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
