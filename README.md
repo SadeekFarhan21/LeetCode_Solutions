@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
