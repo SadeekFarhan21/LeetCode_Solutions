@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
