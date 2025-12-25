@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0812-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
