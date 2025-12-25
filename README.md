@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2092-find-all-people-with-secret](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/SadeekFarhan21/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
